@@ -60,5 +60,4 @@ while True:
                     file.write(email_body)
                     file.close()
         num_of_mail = len(id_list)
-# website_response = 'True'
 
